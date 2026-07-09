@@ -61,12 +61,6 @@ git clone https://github.com/pveeramaniteja-ux/car_price_prediction_model.git
 cd car_price_prediction_model
 ```
 
-### Install the required dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
 ### Run the application
 
 ```bash
