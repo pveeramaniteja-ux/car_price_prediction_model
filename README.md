@@ -35,11 +35,13 @@ This project aims to estimate the selling price of a used car using Machine Lear
 ## Project Structure
 
 ```text
-car_price_prediction_model/
-│── app.py
-│── model.pkl
-│── car_price_prediction.ipynb
-│── requirements.txt
+Car_price_prediction_model/
+│── Car_price_predictor/
+│   ├── app.py
+│   ├── model.pkl
+│   └── car_price_model.ipynb
+│
+│── Cardetails.csv
 │── README.md
 ```
 
